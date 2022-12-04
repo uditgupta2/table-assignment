@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.data-comp {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  margin-right: 20px;
+  color: red;
+  background-color: rgb(249, 222, 222);
+  border-radius: 50%;
+  padding: 5px;
+}
